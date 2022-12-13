@@ -3,5 +3,6 @@ test file in main branch
 new1.txt
 new2.txt
 
-Programmers use Bash for writing shell scripts to automate manual tasks. Bash is a command language — 
-it lets you spawn processes instantly with less code by entering binary names and parameters.
+new3
+
+new 4
