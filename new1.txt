@@ -1,1 +1,6 @@
 test file in main branch
+index.html
+new1.txt
+new2.txt
+README.md
+script.js
