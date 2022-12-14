@@ -16,3 +16,5 @@ line for tag
 
 12345
 
+The git restore command allows one to unstage or even discard uncommitted local changes. 
+Basically, the command can be used to undo the effects of git add and unstage the changes you’ve previously made to the staging area.
