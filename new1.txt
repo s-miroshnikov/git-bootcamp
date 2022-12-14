@@ -9,3 +9,5 @@ it lets you spawn processes instantly with less code by entering binary names an
 We often need to update automation scripts by adding new features or changing the existing logic.
 
 Writing manageable and clean shell scripts is undoubtedly a good practice for saving time during shell script updates.
+
+Some developers don’t invest time in SoC with shell scripts since they think automation scripts don’t require much manageability. 
