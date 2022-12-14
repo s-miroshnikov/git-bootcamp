@@ -5,3 +5,5 @@ new2.txt
 
 Programmers use Bash for writing shell scripts to automate manual tasks. Bash is a command language — 
 it lets you spawn processes instantly with less code by entering binary names and parameters.
+
+We often need to update automation scripts by adding new features or changing the existing logic.
