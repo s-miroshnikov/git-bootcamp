@@ -12,7 +12,7 @@ Writing manageable and clean shell scripts is undoubtedly a good practice for sa
 
 Some developers don’t invest time in SoC with shell scripts since they think automation scripts don’t require much manageability. 
 
-
+line for tag
 
 12345
 
