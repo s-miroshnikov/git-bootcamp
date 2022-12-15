@@ -1,3 +1,4 @@
-errors.txt
-/logs
-*.js
+.db
+.log
+target/
+bin/
