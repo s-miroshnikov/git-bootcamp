@@ -1,2 +1,2 @@
-1234567
-The SoC (Separation of Concerns) principle motivates us to decompose code segments into procedures or classes based on the programming paradigm.
+so this is feature branch
+and it will be merged to main
